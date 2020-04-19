@@ -1,4 +1,4 @@
-    body,
+﻿    body,
     html,
     #a1 {
       background-color: #000;
@@ -224,7 +224,7 @@
       TEXT-INDENT: -99999px;
       WIDTH: 70px;
       DISPLAY: block;
-      BACKGROUND: url(https://www.jiexila.com/css/xianlu.png) no-repeat 0px 0px;
+      BACKGROUND: url(https://cdn.jsdelivr.net/gh/woaihuai/xiaolangyun/xianlu.png) no-repeat 0px 0px;
       HEIGHT: 35px;
       TOP: 80%;
       CURSOR: pointer;
